@@ -1,7 +1,11 @@
 #include <iostream>
 using namespace std;
 int main()
+/* 
+Buraları katıp karıştırmışsın 
 
+
+*/
 {
     int a,b;
     cout << "Bir sayi giriniz";
