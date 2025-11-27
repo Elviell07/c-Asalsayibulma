@@ -2,9 +2,10 @@
 using namespace std;
 int main()
 /* 
-Buraları katıp karıştırmışsın 
-
-
+Buraları katıp karıştırmışsın (Şaka Şaka)
+Eline sağlık ufak tefek eksikleri vardı 
+Fiyakalı olsun diye farklı şekilde başka bir kod daha yazdım 😎
+AYRICA README.MD DOSYALARINA DEĞİL PROJE DOSYALARINI BÖYLE YÜKLEMEN GEREKİYOR !!
 */
 {
     int a,b;
